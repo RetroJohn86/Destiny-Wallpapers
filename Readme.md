@@ -2,6 +2,8 @@
 
 **This Repository is of all Destiny 1 & 2 Wallpapers**
 
+As from the March 1st 2024, the Download Size of this Repo is : 484 MB ( Please Note This Size Can Change At Anytime. )
+
 __**Files and Folder Structure.**__
 
 **Images** **:**
